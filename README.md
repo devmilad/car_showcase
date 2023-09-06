@@ -17,6 +17,7 @@ Explore the world of cars with our cutting-edge application built using Next.js,
 * Typescript
 * redux toolkit for fetching api
 * rapidAPI for info
+* framer emotion library for animation and modal
 
 # Contribution
 We welcome contributions! Feel free to submit issues or pull requests to help us improve this project further.
